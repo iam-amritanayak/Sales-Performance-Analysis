@@ -25,7 +25,6 @@ The project follows an end-to-end data analytics workflow using **Python, SQL, E
 | Tool         | Purpose                                                      |
 | ------------ | ------------------------------------------------------------ |
 | **Python**   | Data cleaning, preprocessing, and exploratory data analysis  |
-| **SQL**      | Data querying, aggregation, filtering, and business analysis |
 | **Excel**    | Data preparation, validation, and preliminary analysis       |
 | **Power BI** | Interactive dashboards, KPI analysis, and data visualization |
 
@@ -39,8 +38,6 @@ Raw Data
 Excel Data Preparation
    ↓
 Python Data Cleaning & EDA
-   ↓
-SQL Analysis
    ↓
 Power BI Data Modeling
    ↓
@@ -102,7 +99,6 @@ Through this project, I:
 
 * Analyzed sales, product, customer, and regional performance.
 * Applied data cleaning and exploratory data analysis techniques.
-* Used SQL to extract and analyze business-relevant information.
 * Built interactive Power BI visualizations and dashboards.
 * Transformed raw data into structured information and actionable business insights.
 * Gained practical experience working with an end-to-end data analytics workflow.
@@ -119,9 +115,6 @@ Sales-Performance-Analysis/
 │
 ├── python/
 │   └── sales_analysis.py
-│
-├── sql/
-│   └── sales_analysis.sql
 │
 ├── excel/
 │   └── sales_analysis.xlsx
@@ -144,7 +137,6 @@ Sales-Performance-Analysis/
 * Data Cleaning
 * Data Preprocessing
 * Exploratory Data Analysis (EDA)
-* SQL Querying
 * Data Analysis
 * KPI Analysis
 * Data Visualization
